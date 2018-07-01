@@ -21,9 +21,6 @@ hesl = { git = "ssh://git@github.com/humanenginuity/hesl" }
 optional = true
 version = "*"
 
-[dev-dependencies]
-rspec = "1.0.0-beta.4"
-
 [profile.bench]
 codegen-units = 1
 debug = false

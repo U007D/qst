@@ -20,8 +20,6 @@
 
 #[macro_use]
 extern crate failure;
-#[cfg(test)]
-extern crate rspec;
 
 #[cfg(test)]
 #[macro_use]
